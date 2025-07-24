@@ -1,6 +1,8 @@
 # HealthKart-Marketing-Analytics
 Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiOGNjMjYxZjAtOGRjNC00MDE4LTg2NjYtNjRjYzhhMDcwNjliIiwidCI6ImI4ZTdmZjJkLWVjZmItNDk3OC1hYjUwLWJkYWNjZDlkNjY0OSJ9
 
+Summary Report : https://docs.google.com/document/d/1ibC6eFKB_wbm4zkfYcM2PjzqPTMTjvfpGAFecPvX4WM/edit?usp=sharing
+
 ## 🔧 Setup Instructions
 
 To run this Power BI Dashboard on your local system, follow these steps:
